@@ -1,6 +1,7 @@
 Create new `Document` (which is one result in an index), any id
 
-Here we create a new index called `weather-data` with it's first document
+Here we create a new index called `weather-data` automatically when posting it's first document
+(see 4-indexing on how to create )
 
 ```bash
 POST weather-data/_doc
